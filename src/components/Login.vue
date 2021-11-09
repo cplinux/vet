@@ -4,7 +4,7 @@
       <div class="avatar_box">
         <img src="../assets/logo.png" alt="logo" />
       </div>
-      <div class="ms-title">基础设施交付管理系统</div>
+      <div class="ms-title">MyProjectTemplate</div>
       <el-form ref="loginFormRef" class="login_form" :model="loginForm" :rules="loginRules">
         <el-form-item prop="username">
           <el-input placeholder="请输入用户名" prefix-icon="el-icon-user" v-model="loginForm.username"></el-input>
