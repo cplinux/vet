@@ -1,8 +1,8 @@
-# smartpxe
+# MyProjectTemp
 
-## Project setup
+## Model install
 ```
-yarn install
+yarn
 ```
 
 ## Vue start
