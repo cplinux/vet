@@ -3,7 +3,7 @@
     <el-header>
       <div class="logo">
         <img src="../assets/logo.png" alt="logo" />
-        <div class="title">马哥教育猛犸象运维系统管理平台</div>
+        <div class="title">MyProjectTemplate</div>
         <div><i :class="isCollapse ? 'el-icon-s-unfold' : 'el-icon-s-fold'" @click="caidan"></i></div>
       </div>
       <div class="user">
