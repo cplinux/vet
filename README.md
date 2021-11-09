@@ -1,5 +1,11 @@
 # MyProjectTemp
 
+## Clone Temp
+```
+git clone git@github.com:cplinux/vet.git -b master
+mv vet NewProject
+```
+
 ## Model install
 ```
 yarn
