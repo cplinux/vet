@@ -1,8 +1,8 @@
-# smartpxe
+# MyProjectTemp
 
-## Project setup
+## Model install
 ```
-yarn install
+yarn
 ```
 
 ## Vue start
@@ -12,6 +12,7 @@ vue ui -H 127.0.0.1 -p 8090
 
 <details>
   <summary>other</summary>
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
